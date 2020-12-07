@@ -7,7 +7,7 @@ from setuptools import setup
 
 
 name = 'django-rest-framework-datatables-filter'
-package = 'django_rest_framework_datatables-filter'
+package = 'django_rest_framework_datatables_filter'
 description = 'Seamless integration between Django REST framework and Datatables (https://datatables.net)'
 url = 'https://github.com/sheikhfaisalanwar/django-rest-framework-datatables'
 author = 'Sheikh Faisal Anwar'
