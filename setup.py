@@ -6,12 +6,12 @@ import sys
 from setuptools import setup
 
 
-name = 'djangorestframework-datatables'
-package = 'rest_framework_datatables'
+name = 'django-rest-framework-datatables-filter'
+package = 'django_rest_framework_datatables-filter'
 description = 'Seamless integration between Django REST framework and Datatables (https://datatables.net)'
-url = 'https://github.com/izimobil/django-rest-framework-datatables'
-author = 'David Jean Louis'
-author_email = 'izimobil@gmail.com'
+url = 'https://github.com/sheikhfaisalanwar/django-rest-framework-datatables'
+author = 'Sheikh Faisal Anwar'
+author_email = 'faisalanwar21@gmail.com'
 license = 'MIT'
 
 
